@@ -8,3 +8,4 @@ This tool uses Tesseract OCR to find text inside images. For the utility to work
 Click [here](https://github.com/UB-Mannheim/tesseract/wiki) to obtain it  
 During isntallation click "install for all users". This tool assumes that tesseract is installed at C:\Program Files\Tesseract-OCR\tesseract.exe  
 Make sure you also have Java installed [Link](https://www.java.com/download/ie_manual.jsp)  
+Please make sure your antivirus isn't flagging the executable
