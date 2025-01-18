@@ -1,6 +1,6 @@
 # pdfToExcel  
   
-A utility for extracting engine part information  
+A utility that uses state of the art OCR techniques to scan pdf documents, locate tables of interest and compile them into an excel document for further processing. 
   
 Download link: [latest release](https://github.com/Tsidia/pdfToExcel/releases/tag/v1.0.0)  
 ##Important Note  
